@@ -1,2 +1,2 @@
 # lang_translate
-All language is every man language
+The Language for every man
